@@ -1,0 +1,11 @@
+numpy 
+pandas
+scikit-learn
+flwr
+transformers
+datasets
+keras
+evaluate
+loguru
+git+https://github.com/huggingface/peft
+fire
